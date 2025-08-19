@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "NewBlazorApps",
   "resources": {
-    "hash": "sha256-E1IlAnSrmwWFjOhsXDldsym9PmAHohx2m8n4i7/63gw=",
+    "hash": "sha256-ujXg6OrGK/pBOSTh97uWrkX6urOMwYdXvWgj1mmRezU=",
     "jsModuleNative": {
       "dotnet.native.8.0.19.ihm50f0zha.js": "sha256-O/NCYcAN9uPocD7ns7AzF/cqx7f5vL1PTJCQs0vEXyk="
     },
@@ -55,7 +55,7 @@
       "Microsoft.SqlServer.Server.wasm": "sha256-Fig+5hq00gGQlXAgSnyFlUlWyhlx9f+yPJb4INt3gNc=",
       "Microsoft.Win32.Primitives.wasm": "sha256-lwXLBRccngVovqZWNXqPoGrMUsZqorfIXkzwr1esb+c=",
       "netstandard.wasm": "sha256-bVIRVQvd0/YIUzRv/kmO3SNL6zFEUo6csDHPokmerr8=",
-      "NewBlazorApps.wasm": "sha256-pPzfY5cKGlZDAjbmK41or4HKeVC9c50gNa9uIj+uBW8=",
+      "NewBlazorApps.wasm": "sha256-EJDYzPThRie88aG0W903Ee91aHKRr175W7ofEfJhGXc=",
       "System.Buffers.wasm": "sha256-qVCWRQ1PS65tYRkPrD4QKNjCzf6POk1sHNT1OxUor14=",
       "System.ClientModel.wasm": "sha256-hB3YvRqtJh9HC69ryOu2jplvTqYa8opx1wPk+N/txKs=",
       "System.Collections.Concurrent.wasm": "sha256-tVZICghr3hMCiFd6mUj6n3DQCTq4rWSqIxA7j56W0Go=",
