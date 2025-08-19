@@ -17,7 +17,7 @@ jobs:
           dotnet-version: 8.0.x
 
       - name: Publish Blazor WASM app
-        run: dotnet publish ./BlazorProjectApp.sln -c Release -o release/wwwroot
+        run: dotnet publish ./NewBlazorApps.sln -c Release -o release/wwwroot
 
       - name: Add .nojekyll file
         run: touch release/wwwroot/.nojekyll
