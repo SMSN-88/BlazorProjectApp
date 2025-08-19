@@ -13,11 +13,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.18" />
   </ItemGroup>
 
-	<ItemGroup>
-		<Content Include="wwwroot\_redirects">
-			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		</Content>
-	</ItemGroup>
+	
 </Project>
 
 
